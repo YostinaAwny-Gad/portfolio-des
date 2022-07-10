@@ -1,0 +1,19 @@
+
+.home{
+
+    height: 400px;
+    background-size: cover;
+    background-image: url(../images/bg.jpg);
+}
+.imagee{
+    width: 250px !important;
+    height: 250px !important;
+    margin-left: 100px;
+    /* justify-content: right !important; */
+}
+.home-item{
+   display: inline;
+   margin: 20px;
+   margin-top: 200px;
+
+}
